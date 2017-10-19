@@ -1,0 +1,17 @@
+li {
+    list-style-type: none; /* Прячем исходные маркеры */
+}
+ul > li:before {
+    color: yellow; /* Цвет маркера */
+    content: "*"; /* Сам маркер */
+    padding-right: 10px; /* Расстояние от маркера до текста */
+}
+ol{
+    counter-reset: myCounter;
+}
+
+ol > li:before {
+    counter-increment: myCounter;
+    content:counter(myCounter);
+    color: #2980B9;
+}

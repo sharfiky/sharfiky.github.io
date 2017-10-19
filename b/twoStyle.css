@@ -1,0 +1,27 @@
+.piggy table {
+
+    border-collapse: separate;
+    border-spacing: 8px;
+}
+td {
+    width: 10px;
+}
+.uno {
+    background: #10dd9a;
+}
+.dos {
+    background: #43ddaf;
+}
+.tre {
+    background: #5ca8a2;
+}
+.quatro {
+    background: #25a892;
+}
+.sinco {
+    background: #6dbbdd;
+}
+.ses {
+    background: #5a90a8;
+}
+
