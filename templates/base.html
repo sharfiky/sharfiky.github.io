@@ -12,27 +12,36 @@
   </head>
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="station">
-        <img src="/templates/steel.png" width="80" height="60" class="d-inline-block align-top" alt="">
+      <a class="navbar-brand" href="position.html">
+        <img src="steel.png" width="80" height="60" class="d-inline-block align-top" alt="">
 
       </a>
-        <h4>Введите данные &nbsp; &nbsp;</h4>
-        <form class="form-inline my-2 my-lg-0">
-          <input class="form-control mr-sm-2" type="login" placeholder="Номер работника" aria-label="Search">
-          <input class="form-control mr-sm-2" type="password" placeholder="Пароль" aria-label="Search">
-            <a href="position"  role="button" >послать</a>
-        </form>
-    </nav>
 
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="#">Аварийность </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Справка</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Календарь</a>
+          </li>
+        </ul>
+      </div>
+
+    </nav>
     <p> </p>
     <p> </p>
 
     <div class="jumbotron jumbotron-fluid">
       <div class="container">
-        <h1 class="display-4" >Вероятности поломки установки</h1>
-        <p class="lead">Результаты сделанны на основе передовых исследований в машинном обуении</p>
+        <h1 class="display-4" >Вероятности поломки установок</h1>
+        <p class="lead">Результаты сделанны на основе передовых исследований в машинном обучении</p>
       </div>
     </div>
+        {% block content %}{% endblock %}
 
   </div>
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->

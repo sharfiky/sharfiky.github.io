@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block content %}'
+    <nav aria-label="Page navigation example">
+      <ul class="pagination">
+        <li class="page-item"><a class="page-link" href="position.html">24 часа</a></li>
+        <li class="page-item"><a class="page-link" href="#">1 неделя</a></li>
+        <li class="page-item"><a class="page-link" href="#">2 недели</a></li>
+      </ul>
+    </nav>
+    {%  for state in states %}
+    <div class="container">
+      <p><a href="station.html"> {{ state.name }}</a></p>
+    </div>
+    <div class="progress">
+      {% if state.percent > 60 %}
+        <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: {{ state.percent }}" aria-valuenow="{{ state.percent }}" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
+
+  </div>
+    {% endfor %}
+{% endblock %}
