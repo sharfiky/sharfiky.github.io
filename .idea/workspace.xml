@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="962b3190-d486-46ef-b296-77e7faa12b18" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/recordings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1920x1080/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/500x700/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/970x647/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/970x647/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/970x647/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mockup/avatar-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_after.html" beforeDir="false" afterPath="$PROJECT_DIR$/home_after.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,17 +25,35 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="93" column="97" selection-start-line="93" selection-start-column="97" selection-end-line="93" selection-end-column="97" />
+            <state relative-caret-position="144">
+              <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="100" column="70" selection-start-line="100" selection-start-column="70" selection-end-line="100" selection-end-column="70" />
+            <state relative-caret-position="504">
+              <caret line="94" column="95" lean-forward="true" selection-start-line="94" selection-start-column="95" selection-end-line="94" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recordings.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recordings.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="70" column="136" selection-end-line="164" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/layout.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="340" lean-forward="true" selection-start-line="340" selection-end-line="340" />
             </state>
           </provider>
         </entry>
@@ -45,8 +61,17 @@
       <file leaf-file-name="home_after.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home_after.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="84" column="25" lean-forward="true" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="25" />
+            <state relative-caret-position="389">
+              <caret line="87" column="70" selection-start-line="87" selection-start-column="70" selection-end-line="87" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/settings.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
             </state>
           </provider>
         </entry>
@@ -54,8 +79,8 @@
       <file leaf-file-name="another.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/another.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="319" column="16" lean-forward="true" selection-start-line="319" selection-start-column="16" selection-end-line="319" selection-end-column="16" />
+            <state relative-caret-position="432">
+              <caret line="276" column="12" lean-forward="true" selection-start-line="276" selection-start-column="12" selection-end-line="276" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -76,6 +101,8 @@
       <find>dow</find>
       <find>net</find>
       <find>avat</find>
+      <find>promo</find>
+      <find>пре</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -99,8 +126,11 @@
         <option value="$PROJECT_DIR$/img/index.html" />
         <option value="$PROJECT_DIR$/another.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/home_after.html" />
+        <option value="$PROJECT_DIR$/css/layout.css" />
         <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/recordings.html" />
+        <option value="$PROJECT_DIR$/home_after.html" />
+        <option value="$PROJECT_DIR$/settings.html" />
       </list>
     </option>
   </component>
@@ -116,9 +146,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="75" />
+    <option name="x" value="77" />
     <option name="y" value="34" />
-    <option name="width" value="1855" />
+    <option name="width" value="1853" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
@@ -132,11 +162,6 @@
             <path>
               <item name="sharfiky.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="sharfiky.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sharfiky.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sharfiky.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -173,7 +198,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.recordings.html">
+    <configuration name="recordings.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sharfiky.github.io/recordings.html" />
     <configuration default="false" name="sharfiky.github.io" type="PythonConfigurationType" factoryName="Python" singleton="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -405,6 +431,14 @@
       <arguments />
       <envs />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.recordings.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.recordings.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -416,36 +450,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520157120339</updated>
-      <workItem from="1525196159590" duration="4399000" />
+      <workItem from="1525196159590" duration="7741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4399000" />
+    <option name="totallyTimeSpent" value="7741000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="34" width="1855" height="1056" extended-state="0" />
+    <frame x="77" y="34" width="1853" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24959569" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24986508" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="5" visible="true" weight="0.32985386" />
-      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" visible="true" weight="0.32985386" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -483,31 +517,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="93" column="97" selection-start-line="93" selection-start-column="97" selection-end-line="93" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/another.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="319" column="16" lean-forward="true" selection-start-line="319" selection-start-column="16" selection-end-line="319" selection-end-column="16" />
+        <state relative-caret-position="432">
+          <caret line="276" column="12" lean-forward="true" selection-start-line="276" selection-start-column="12" selection-end-line="276" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home_after.html">
+    <entry file="file://$PROJECT_DIR$/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="84" column="25" lean-forward="true" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="25" />
+        <state relative-caret-position="180">
+          <caret line="340" lean-forward="true" selection-start-line="340" selection-end-line="340" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="70" column="136" selection-end-line="164" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="100" column="70" selection-start-line="100" selection-start-column="70" selection-end-line="100" selection-end-column="70" />
+        <state relative-caret-position="504">
+          <caret line="94" column="95" lean-forward="true" selection-start-line="94" selection-start-column="95" selection-end-line="94" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_after.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="87" column="70" selection-start-line="87" selection-start-column="70" selection-end-line="87" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
         </state>
       </provider>
     </entry>
